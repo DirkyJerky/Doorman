@@ -1,0 +1,18 @@
+Contacts:
+- X (gnd?)
+- 1
+- 2
+- 3
+- Speaker
+
+Resting
+X - Speaker - 1
+
+Talk button
+2 - X
+
+Listen button
+3 - X
+
+Door button
+3 - 2
