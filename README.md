@@ -15,3 +15,6 @@ Using a Pi Pico to remotely unlock my front door.
 2. Adjust the SSID + Password in `main.py` to connect to your prefered Wifi network
 3. Adjust the pins in pins.py to match your connected peripherals.
 
+## My Pico
+
+![Pico](Pico.jpg)
